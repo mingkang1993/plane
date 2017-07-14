@@ -1,0 +1,40 @@
+{"mc":{
+	"my_plane":{
+		"frameRate":24,
+		"labels":[
+			{"name":"myPlane","frame":1,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"hero_blowup_n1",
+			"x":0,
+			"y":1
+			},
+			{
+			"res":"hero_blowup_n2",
+			"x":0,
+			"y":1
+			},
+			{
+			"res":"hero_blowup_n3",
+			"x":0,
+			"y":1
+			},
+			{
+			"res":"hero_blowup_n4",
+			"x":0,
+			"y":1
+			}
+			]
+}},
+	"res":{
+		"hero_blowup_n2":{"x":100,"y":0,"w":98,"h":123},
+		"hero_blowup_n4":{"x":100,"y":125,"w":66,"h":77},
+		"hero_blowup_n3":{"x":0,"y":0,"w":98,"h":123},
+		"hero_blowup_n1":{"x":0,"y":125,"w":98,"h":123}
+	}}

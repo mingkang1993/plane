@@ -1,0 +1,40 @@
+{"mc":{
+	"enemy":{
+		"frameRate":24,
+		"labels":[
+			{"name":"enemy2","frame":1,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"enemy2_down1",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"enemy2_down2",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"enemy2_down3",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"enemy2_down4",
+			"x":0,
+			"y":0
+			}
+			]
+}},
+	"res":{
+		"enemy2_down4":{"x":0,"y":97,"w":68,"h":77},
+		"enemy2_down2":{"x":71,"y":95,"w":69,"h":93},
+		"enemy2_down1":{"x":71,"y":0,"w":69,"h":93},
+		"enemy2_down3":{"x":0,"y":0,"w":69,"h":95}
+	}}

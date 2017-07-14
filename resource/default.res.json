@@ -1,0 +1,125 @@
+{
+	"groups": [
+		{
+			"keys": "bg01_jpg,bg02_jpg,my_bullet_png,egret_icon_png,description_json,Untitled_png,my_plane_png,game_resume_nor_png,enemy1_png,enemy2_png,enemy3_png,bullet1_png,fire_mp3,game_over_mp3,game_over_png,btn_restart_png,enemy1_down_json,enemy1_down_png,enemy3_down_json,enemy3_down_png,enemy2_down_json,enemy2_down_png,my_plane_down_json,my_plane_down_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg01_jpg",
+			"type": "image",
+			"url": "assets/bg_01.jpg"
+		},
+		{
+			"name": "bg02_jpg",
+			"type": "image",
+			"url": "assets/bg_02.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "my_plane_png",
+			"type": "image",
+			"url": "assets/planes/my_plane.png"
+		},
+		{
+			"name": "my_bullet_png",
+			"type": "image",
+			"url": "assets/planes/my_bullet.png"
+		},
+		{
+			"name": "game_resume_nor_png",
+			"type": "image",
+			"url": "assets/game_resume_nor.png"
+		},
+		{
+			"name": "enemy1_png",
+			"type": "image",
+			"url": "assets/enemy_planes/enemy1.png"
+		},
+		{
+			"name": "enemy2_png",
+			"type": "image",
+			"url": "assets/enemy_planes/enemy2.png"
+		},
+		{
+			"name": "enemy3_png",
+			"type": "image",
+			"url": "assets/enemy_planes/enemy3.png"
+		},
+		{
+			"name": "bullet1_png",
+			"type": "image",
+			"url": "assets/enemy_planes/bullet1.png"
+		},
+		{
+			"name": "fire_mp3",
+			"type": "sound",
+			"url": "assets/fire.mp3"
+		},
+		{
+			"name": "game_over_mp3",
+			"type": "sound",
+			"url": "assets/game_over/game_over.mp3"
+		},
+		{
+			"name": "game_over_png",
+			"type": "image",
+			"url": "assets/game_over/game_over.png"
+		},
+		{
+			"name": "btn_restart_png",
+			"type": "image",
+			"url": "assets/game_over/btn_restart.png"
+		},
+		{
+			"name": "enemy1_down_json",
+			"type": "json",
+			"url": "assets/enemy_planes/enemy1_down.json"
+		},
+		{
+			"name": "enemy1_down_png",
+			"type": "image",
+			"url": "assets/enemy_planes/enemy1_down.png"
+		},
+		{
+			"name": "enemy3_down_json",
+			"type": "json",
+			"url": "assets/enemy_planes/enemy3_down.json"
+		},
+		{
+			"name": "enemy3_down_png",
+			"type": "image",
+			"url": "assets/enemy_planes/enemy3_down.png"
+		},
+		{
+			"name": "enemy2_down_json",
+			"type": "json",
+			"url": "assets/enemy_planes/enemy2_down.json"
+		},
+		{
+			"name": "enemy2_down_png",
+			"type": "image",
+			"url": "assets/enemy_planes/enemy2_down.png"
+		},
+		{
+			"name": "my_plane_down_json",
+			"type": "json",
+			"url": "assets/planes/my_plane_down.json"
+		},
+		{
+			"name": "my_plane_down_png",
+			"type": "image",
+			"url": "assets/planes/my_plane_down.png"
+		}
+	]
+}
